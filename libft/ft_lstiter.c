@@ -6,22 +6,19 @@
 /*   By: csilva-f <csilva-f@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/08 22:18:53 by csilva-f          #+#    #+#             */
-/*   Updated: 2022/11/08 22:21:50 by csilva-f         ###   ########.fr       */
+/*   Updated: 2022/11/08 23:11:11 by csilva-f         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-void	ft_lstliter(t_list *lst, void (*f)(void *))
+void	ft_lstiter(t_list *lst, void (*f)(void *))
 {
-	t_list	*aux;
-
-	if (!f || !lst)
+	if (!f)
 		return ;
 	while (lst)
 	{
-		aux = lst->next;
 		f(lst->content);
-		lst = aux;
+		lst = lst->next;
 	}
 }
