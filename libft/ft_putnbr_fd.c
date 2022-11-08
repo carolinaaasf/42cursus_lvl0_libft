@@ -6,7 +6,7 @@
 /*   By: csilva-f <csilva-f@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/06 17:54:22 by csilva-f          #+#    #+#             */
-/*   Updated: 2022/11/07 22:53:12 by csilva-f         ###   ########.fr       */
+/*   Updated: 2022/11/08 21:51:18 by csilva-f         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,20 +18,22 @@ void	ft_putnbr_fd(int n, int fd)
 
 	if (fd < 0)
 		return ;
-	nb = n;
 	if (n < 0)
 	{
 		ft_putchar_fd('-', fd);
-		nb *= -1;
+		nb = (unsigned int)(n * -1);
+	}
+	else
+	{
+		nb = (unsigned int)n;
 	}
 	if (nb < 10)
-		ft_putchar_fd(n + '0', fd);
+		ft_putchar_fd(nb + 48, fd);
 	else
 	{
 		ft_putnbr_fd(nb / 10, fd);
-		ft_putchar_fd(nb % 10 + '0', fd);
+		ft_putchar_fd(nb % 10 + 48, fd);
 	}
-	return ;
 }
 
 /*#include <fcntl.h>
