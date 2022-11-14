@@ -6,7 +6,7 @@
 /*   By: csilva-f <csilva-f@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/08 22:02:15 by csilva-f          #+#    #+#             */
-/*   Updated: 2022/11/08 22:39:51 by csilva-f         ###   ########.fr       */
+/*   Updated: 2022/11/13 18:09:28 by csilva-f         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 void	ft_lstadd_back(t_list **lst, t_list *new)
 {
 	t_list	*aux;
-	
+
 	if (lst)
 	{
 		if (*lst)

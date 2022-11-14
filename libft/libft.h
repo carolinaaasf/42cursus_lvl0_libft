@@ -6,7 +6,7 @@
 /*   By: csilva-f <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/06 10:07:17 by csilva-f          #+#    #+#             */
-/*   Updated: 2022/11/08 23:09:30 by csilva-f         ###   ########.fr       */
+/*   Updated: 2022/11/13 18:03:58 by csilva-f         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -67,6 +67,7 @@ t_list		*ft_lstlast(t_list *lst);
 void		ft_lstadd_back(t_list **lst, t_list *new);
 void		ft_lstdelone(t_list *lst, void (*del)(void *));
 void		ft_lstclear(t_list **lst, void (*del)(void *));
-void		ft_lstliter(t_list *lst, void (*f)(void *));
+void		ft_lstiter(t_list *lst, void (*f)(void *));
+t_list		*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *));
 
 #endif
