@@ -7,3 +7,4 @@ The goal was to create a library which would include the mostly used C functions
 This library will then be useful for future projects, in which it is allowed to use it.<br />
 
 ### Steps to run the project:
+1 - Clone the repository:
