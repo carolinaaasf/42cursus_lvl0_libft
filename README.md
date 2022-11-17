@@ -6,7 +6,7 @@ This repository includes all the functions from the libft individual project fro
 The goal was to create a library which would include the mostly used C functions, such as strlen, strchr, atoi, etc.<br />
 This library will then be useful for future projects, in which it is allowed to use it.<br />
 
-### Steps to run the project:
+### To run the project:
 1 - Clone the repository:<br />
 `[git status](https://github.com/carolinaaasf/42cursus_lvl0_Libft.git)`
 
