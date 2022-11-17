@@ -8,5 +8,5 @@ This library will then be useful for future projects, in which it is allowed to 
 
 ### To run the project:
 1 - Clone the repository:<br />
-`[git status](https://github.com/carolinaaasf/42cursus_lvl0_Libft.git)`
+`(https://github.com/carolinaaasf/42cursus_lvl0_Libft.git)`
 
