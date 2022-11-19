@@ -22,5 +22,5 @@ This library will then be useful for future projects, in which it is allowed to 
 ### Testing:
 For this project, I ran 2 testers created by other users, which results ans repositories are the ones below:<br />
 [libft-unit-test](https://github.com/alelievr/libft-unit-test) <br />
-![Alt text](Extras/unit_test_mandatory.png "Title")
+![Alt text](Extras/unit_test_mandatory.png "unit_test_mandatory") <br />
 [libft-war-machine](https://github.com/0x050f/libft-war-machine)
