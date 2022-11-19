@@ -29,3 +29,4 @@ For this project, I ran 2 testers created by other users, which results ans repo
 ![Alt text](Extras/war_machine_mandatory.png "war_machine_mandatory") <br />
 ![Alt text](Extras/war_machine_bonus.png "war_machine_bonus") <br />
 --------
+Made by Carolina Figueiredo (carolinaasf) | csilva-f@student.42porto.com
