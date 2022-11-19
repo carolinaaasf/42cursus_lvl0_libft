@@ -23,7 +23,7 @@ This library will then be useful for future projects, in which it is allowed to 
 For this project, I ran 2 testers created by other users, which results ans repositories are the ones below:<br />
 [libft-unit-test](https://github.com/alelievr/libft-unit-test) <br />
 ![Alt text](Extras/unit_test_mandatory.png "unit_test_mandatory") <br />
-![Alt text](Extras/unit_test_bonus.png "unit_test_bonus") <br />
+
 
 [libft-war-machine](https://github.com/0x050f/libft-war-machine) <br />
 ![Alt text](Extras/war_machine_mandatory.png "war_machine_mandatory") <br />
