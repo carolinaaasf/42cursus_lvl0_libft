@@ -29,4 +29,6 @@ For this project, I ran 2 testers created by other users, which results ans repo
 ![Alt text](Extras/war_machine_mandatory.png "war_machine_mandatory") <br />
 ![Alt text](Extras/war_machine_bonus.png "war_machine_bonus") <br />
 --------
-Made by Carolina Figueiredo (carolinaasf) | csilva-f@student.42porto.com
+Made by Carolina Figueiredo (carolinaaasf) | csilva-f@student.42porto.com <br />
+[![Linkedin](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[1] https://www.linkedin.com/in/carolina-silva-figueiredo/
