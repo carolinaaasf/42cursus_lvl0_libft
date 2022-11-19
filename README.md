@@ -19,3 +19,4 @@ This library will then be useful for future projects, in which it is allowed to 
 4- Compile your main.c with your new libft.a <br />
 `cc -Wall -Wextra -Werror main.c libft.a`
 
+### Testing:
