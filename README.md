@@ -10,4 +10,10 @@ This library will then be useful for future projects, in which it is allowed to 
 1 - Clone the repository:<br />
 `https://github.com/carolinaaasf/42cursus_lvl0_Libft.git`
 
-2 - Navigate to and run make:<br />
+2 - Navigate to the repository folder and run 'make'.<br />
+'make'<br />
+
+3 - You can run 'make clean' to remove object files that are no longer needed.<br />
+'make clean' <br />
+
+
