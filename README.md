@@ -20,3 +20,5 @@ This library will then be useful for future projects, in which it is allowed to 
 `cc -Wall -Wextra -Werror main.c libft.a`
 
 ### Testing:
+For this project, I ran 2 testers created by other users, which results ans repositories are the ones below:<br />
+[libft-unit-test ]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/alelievr/libft-unit-test)
