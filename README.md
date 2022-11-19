@@ -10,3 +10,4 @@ This library will then be useful for future projects, in which it is allowed to 
 1 - Clone the repository:<br />
 `https://github.com/carolinaaasf/42cursus_lvl0_Libft.git`
 
+2 - Navigate to and run make:<br />
