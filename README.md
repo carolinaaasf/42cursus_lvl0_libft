@@ -30,5 +30,5 @@ For this project, I ran 2 testers created by other users, which results ans repo
 ![Alt text](Extras/war_machine_bonus.png "war_machine_bonus") <br />
 --------
 Made by Carolina Figueiredo (carolinaaasf) | csilva-f@student.42porto.com <br />
-[![Linkedin](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![Linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dlinkedin%2BLogo&psig=AOvVaw3RcojKQr6CXpbecBk-PHXd&ust=1668944800407000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjL3oOWuvsCFQAAAAAdAAAAABAD)
 [1]: https://www.linkedin.com/in/carolina-silva-figueiredo/
