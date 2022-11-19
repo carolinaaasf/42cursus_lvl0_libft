@@ -1,4 +1,4 @@
-# *Libft* (42cursus_lvl0)
+# *libft* (42cursus_lvl0)
 ## Grade: 125/100
 ### Subject: [click here](Extras/en.subject.pdf)
 
