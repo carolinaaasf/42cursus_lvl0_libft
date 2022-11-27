@@ -23,7 +23,9 @@ make clean
 ```
 
 4- Compile your main.c with your new libft.a <br />
-`cc -Wall -Wextra -Werror main.c libft.a`
+```
+cc -Wall -Wextra -Werror main.c libft.a
+```
 
 ### Testing:
 For this project, I ran 2 testers created by other users, which results and repositories are the ones below:<br />
