@@ -9,14 +9,18 @@ This library will then be useful for future projects, in which it is allowed to 
 ### To run the project:
 1 - Clone the repository:<br />
 ```
-$ git clone https://github.com/carolinaaasf/42cursus_lvl0_Libft.git
+git clone https://github.com/carolinaaasf/42cursus_lvl0_Libft.git
 ```
 
 2 - Navigate to the repository folder and run `make`<br />
-`make`<br />
+```
+make
+```
 
 3 - You can run `make clean` to remove object files that are no longer needed.<br />
-`make clean` <br />
+```
+make clean
+```
 
 4- Compile your main.c with your new libft.a <br />
 `cc -Wall -Wextra -Werror main.c libft.a`
